@@ -24,3 +24,18 @@ Lyceum under Tashkent University of Information Technologies
 256, School 
   Tashkent, Uzbekistan
   May, 2016
+
+## 4. Skills
+
+### Language skills
+ Uzbek - Native
+ English -Advanced
+ Russian - Intermediate
+ Turkish - Intermediate
+
+### Computer skills
+ Basic knowledge of C++
+ Basic knowledge of Java
+ Basic knowledge of HTML
+ Basic knowledge of CSS
+ Git
